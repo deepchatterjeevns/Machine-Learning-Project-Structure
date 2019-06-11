@@ -1,1 +1,1 @@
-# Emotion_Face
+# Machine Learning Project Structure
